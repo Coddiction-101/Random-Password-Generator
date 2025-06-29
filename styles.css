@@ -39,20 +39,10 @@ body {
   border-bottom: 2px solid;
 }
 
-.container img {
-  width: 30px;
-  cursor: pointer;
-}
-
 .display input {
   border: 0;
   outline: 0;
   font-size: 24px;
-}
-
-.container button img {
-  width: 28px;
-  margin-right: 10px;
 }
 
 .container button {
