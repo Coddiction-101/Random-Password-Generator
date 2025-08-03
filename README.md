@@ -1,4 +1,4 @@
-🚀 Features
+**🚀 Features**
 One-click Generation: Instantly generate complex, secure passwords.
 
 Customizable Length: Select how long you want your password to be.
@@ -10,7 +10,7 @@ Responsive UI: Works perfectly on mobile, tablet, and desktop.
 No Data Stored: Everything runs in your browser; your passwords are private.
 
 
-🛠️ Built With
+🛠️ **Built With**
 HTML5: Markup and structure.
 
 CSS3: Modern, styled, and responsive layouts.
@@ -18,7 +18,7 @@ CSS3: Modern, styled, and responsive layouts.
 JavaScript: Core password logic and dynamic interactions.
 
 
-📸 Demo
+**📸 Demo**
 http://127.0.0.1:3000/index.html
 
 🧑💻 Getting Started
@@ -28,7 +28,7 @@ bash
 git clone https://github.com/your-username/random-password-generator.git
 Open index.html in your browser.
 
-Start generating strong passwords!
+**Start generating strong passwords!**
 
 No extra installation needed—just your favorite browser.
 
