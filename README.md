@@ -19,8 +19,8 @@ JavaScript: Core password logic and dynamic interactions.
 
 
 **📸 Demo**
-http://127.0.0.1:3000/index.html
-
+ https://random-password-generator-x.netlify.app/
+ 
 🧑💻 Getting Started
 Clone the repository:
 
