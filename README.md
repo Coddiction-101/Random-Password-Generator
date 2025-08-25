@@ -20,16 +20,8 @@ JavaScript: Core password logic and dynamic interactions.
 
 **📸 Demo**
  https://random-password-generator-x.netlify.app/
- 
-🧑💻 Getting Started
-Clone the repository:
-
-bash
-git clone https://github.com/your-username/random-password-generator.git
-Open index.html in your browser.
 
 **Start generating strong passwords!**
-
 No extra installation needed—just your favorite browser.
 
 🧠 How It Works
