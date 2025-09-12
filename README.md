@@ -1,9 +1,9 @@
 **🚀 Features**
 One-click Generation: Instantly generate complex, secure passwords.
 
-Customizable Length: Choose the desired length of your password.
+_Customizable Length:_ Choose the desired length of your password.
 
-Includes Options: Choose whether to use uppercase, numbers, symbols, etc.
+_Includes Options:_ Choose whether to use uppercase, numbers, symbols, etc.
 
 Responsive UI: Works seamlessly on mobile, tablet, and desktop devices.
 
