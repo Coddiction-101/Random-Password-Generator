@@ -22,7 +22,8 @@ JavaScript: Core password logic and dynamic interactions.
  https://random-password-generator-x.netlify.app/
 
 **Start generating strong passwords!**
-Generate Strong
+Generate strong password, direct 
+
 🧠 How It Works
 The logic uses JavaScript’s randomization features to pick characters from user-chosen sets (A-Z, a-z, 0-9, symbols) and assembles them into a strong password of your desired length.
 
