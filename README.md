@@ -23,7 +23,7 @@ JavaScript: Core password logic and dynamic interactions.
 
 **Start generating strong passwords!**
 
-Generate strong password, direct in your browser
+Generate strong password, direct in your browser, No installation needed.
 
 🧠 How It Works
 The logic uses JavaScript’s randomization features to pick characters from user-chosen sets (A-Z, a-z, 0-9, symbols) and assembles them into a strong password of your desired length.
