@@ -11,7 +11,7 @@ _No Data Stored:_ Everything runs in your browser; your passwords are private.
 
 
 🛠️ **Built With**
-HTML5: Markup and structure.
+- HTML5: Markup and structure.
 
 CSS3: Modern, styled, and responsive layouts.
 
