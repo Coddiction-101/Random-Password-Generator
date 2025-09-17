@@ -15,7 +15,7 @@ _No Data Stored:_ Everything runs in your browser; your passwords are private.
 
 - CSS3: Modern, styled, and responsive layouts.
 
-JavaScript: Core password logic and dynamic interactions.
+- JavaScript: Core password logic and dynamic interactions.
 
 
 **📸 Demo**
