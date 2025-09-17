@@ -18,7 +18,7 @@ _No Data Stored:_ Everything runs in your browser; your passwords are private.
 - JavaScript: Core password logic and dynamic interactions.
 
 
-**📸 Demo**
+## 📸 Demo
  https://random-password-generator-x.netlify.app/
 
 **Start generating strong passwords!**
